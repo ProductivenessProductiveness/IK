@@ -11,8 +11,7 @@ aaa
 eeee
 uuuuuuu
 
-####
-aiueo
+####　aiueo
 kakikukeko
 
 
